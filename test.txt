@@ -1,0 +1,22 @@
+This is my first text file
+
+Git folder path:
+/Desktop/Program/Git/
+
+Congfigure git username:
+git config --global user.name "SDGInnovations"
+
+Configure git email:
+git config --global user.email sdginnovations@gmail.com
+
+Clone repository:
+git clone <copy and paste the repository name url>
+(i.e.) git clone https://github.com/SDGInnovations/TestGit.git
+
+Adding a file to the repository:
+git add <name of file>
+(i.e.) git add test.txt
+
+Check status:
+git status
+
