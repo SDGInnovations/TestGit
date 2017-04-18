@@ -20,3 +20,12 @@ git add <name of file>
 Check status:
 git status
 
+Committing a file:
+git commit -m <commit description> <name of file>
+(i.e.) git commit -m "first commit" test.txt
+
+Pushing the file into the repository:
+git push -u origin master
+
+
+
